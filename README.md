@@ -2,6 +2,8 @@
 
 This project demonstrates how to train a YOLOv8 model for celebrity face detection using a custom dataset from Roboflow. The model is capable of identifying and localizing celebrity faces in images.
 
+![virat_labelled (1)](https://github.com/user-attachments/assets/09393f0e-a5fe-44a5-8980-4a0c3e2d3da2)
+
 ![sharapova_labelled](https://github.com/user-attachments/assets/1637650c-7c8e-403f-ac73-87880385abb9)
 
 
@@ -104,6 +106,7 @@ The model has been tested on various celebrity images and demonstrates promising
 
 ![katherine_labelled](https://github.com/user-attachments/assets/a7332743-55db-4155-ba88-143f29f69568)
 
+![virat_labelled_1](https://github.com/user-attachments/assets/00356aaa-6dcf-4485-b5a9-45fa89e1e8b9)
 
 ## Future Improvements
 
