@@ -121,4 +121,6 @@ To enhance the model's performance, consider:
 
 You can check out the project on Roboflow by clicking [here](https://universe.roboflow.com/puspendu-ai-vision-workspace/celebrity-face-detection)
 
+You can view the training results on wandb by clicking [here](https://wandb.ai/ranapuspendu24-iit-madras-foundation/Ultralytics/runs/mvtx6xnr?nw=nwuserranapuspendu24)
+
 ---
